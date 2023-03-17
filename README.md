@@ -1,2 +1,2 @@
 # AtividaJavaPOO
-Atividade de calculo dos pesos dos planetas
+Atividade de calculo do peso em planetas diferentes da terra
