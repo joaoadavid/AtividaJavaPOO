@@ -1,7 +1,7 @@
 package entities;
 
 public class CalculaPesoNoPlaneta {
-	
+
 	private String nomeDoPlaneta;
     private double Gravidade;
 
@@ -18,5 +18,5 @@ public class CalculaPesoNoPlaneta {
         return pesoNaTerra * Gravidade;
     }
 
-   
+
 }
